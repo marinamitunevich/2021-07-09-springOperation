@@ -1,0 +1,6 @@
+1text#to_upperCase
+2text#to-lowercase
+3text#no-operation
+6text#invalidOperation
+7text#
+8text#reverse
